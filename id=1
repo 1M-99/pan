@@ -2,7 +2,7 @@
     "version":"1",
     "newurl":"",
     "newtitle":"🔍发现最新版本",
-    "newcontent":"版本：1.0 暂无更新内容",
+    "newcontent":"暂无更新内容",
     "api":"aHR0cDovLzExOC4yNC40OS44OC9WaWRlby9YLnBocA==",
     "matching":"(http|ftp|https):\/\/[\w\-_]+(\.[\w\-_]+)+([\w\-\.,@?^=%&:/~\+#]*[\w\-\@?^=%&/~\+#])?"
 }
