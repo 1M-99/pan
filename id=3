@@ -2,7 +2,7 @@
     "version":"4",
     "newurl":"https://www.icloud.com/shortcuts/7bc7344233294007a955ad3a12fb841a",
     "newtitle":"🔍发现新版本，点击“好”即可更新！",
-    "newncontent":"版本:1.1 有两处更新\n－1.改变了捷径逻辑，让api请求次数变少了，就不会出现无法获取api内容的问题了。\n－2.增加了返回按钮。",
+    "newncontent":"版本:1.1 有两处更新\\n－1.改变了捷径逻辑，让api请求次数变少了，就不会出现无法获取api内容的问题了。\\n－2.增加了返回按钮。",
     "api":"http://route.showapi.com/119-42",
     "showapi_appid":"1143998",
     "showapi_sign":"a0a624ca1f864029a9c63154173dfdfe"
