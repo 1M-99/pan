@@ -1,11 +1,14 @@
 {
     "version":"1",
     "newurl":"https://www.icloud.com/shortcuts/7bc7344233294007a955ad3a12fb841a",
+    "roken":"
     "newtitle":"🔍发现新版本，点击“好”即可更新！",
     "newnewcontent":"版本:1.0 暂无更新内容。",
+    "tokentoken":"db07fV4KcfOf2eIXCBcmzLlQ4th8bn2SBH3ohujTttkYjKGT7JVpxPQbZQf2ElI_OdijPeeboWjORA4NmA",
     "list":[
         "视频",
         "图片",
-        "音乐"
+        "音乐",
+        "我的文档"
         ]
 }
