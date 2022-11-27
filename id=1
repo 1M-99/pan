@@ -3,7 +3,7 @@
     "newurl":"https://www.icloud.com/shortcuts/25d8b55d54fb42f786d7aa89cae3f02f",
     "newtitle":"🔍发现新版本，点击“好”即可更新！",
     "new":"更新内容在安装的捷径的第一个注释操作上会注明。",
-    "api":"https://api.rcuts.com/Video/X.php",
+    "api":"http://api.rcuts.com/Video/X.php",
     "key":"公众号：科技兽",
     "token":"TEST",
     "erorr":"无法获取视频链接，请检查视频链接是否填写正确。",
