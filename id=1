@@ -2,6 +2,10 @@
     "version":"1",
     "newurl":"https://www.icloud.com/shortcuts/25d8b55d54fb42f786d7aa89cae3f02f",
     "newtitle":"🔍发现新版本，点击“好”即可更新！",
-    "newnontent":"版本:1.0 暂无更新内容",
-    "api":"aHR0cDovLzExOC4yNC40OS44OC9WaWRlby9YLnBocA==",
+    "new":"更新内容在安装的捷径的第一个注释操作上会注明。\n点击“好”即可获取最新版本。",
+    "api":"http://api.rcuts.com/Video/X.php",
+    "key":"公众号：科技兽",
+    "token":"TEST",
+    "erorr":"无法获取视频链接，请检查视频链接是否填写正确。",
+    "tips":"该文件较大，请耐心等待，下载完成后会有弹窗提醒！"
 }
