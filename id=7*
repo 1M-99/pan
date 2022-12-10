@@ -1,6 +1,6 @@
 {
     "tips":"此捷径作者为传说中的1米99，捷径来源于捷径社区，未经允许禁止搬运或抄袭",
-    "Data":{
+    "img_mask":{
         "iPhone":{
             "iPhone14系列":{
                 "iPhone14ProMax":{
@@ -27,5 +27,8 @@
                 }
             }
         }
+    },
+    "img_add":{
+        "iPhone14ProMax"
     }
 }
