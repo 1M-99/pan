@@ -4,21 +4,18 @@
         "iPhone":{
             "iPhone14系列":{
                 "iPhone14ProMax":{
-                    "灵动岛":"http://d.kjzly.cn/8w0kBA",
                     "银色":"http://d.kjzly.cn/FCmTvL",
                     "暗紫色":"http://d.kjzly.cn/iuvXtL",
                     "深空黑色":"http://d.kjzly.cn/t12lsT",
                     "金色":"http://d.kjzly.cn/qKgWlE",
                 },
                 "iPhone14Pro":{
-                    "灵动岛":"http://d.kjzly.cn/ZMo95f",
                     "银色":"http://d.kjzly.cn/IjGZnd",
                     "暗紫色":"http://d.kjzly.cn/CrIq9o",
                     "深空黑色":"http://d.kjzly.cn/xq2RKp",
                     "金色":"http://d.kjzly.cn/MDm3Lz"
                 },
                 "iPhone14Puls":{
-                    "刘海":"http://d.kjzly.cn/BTa5WC",
                     "午夜色":"http://d.kjzly.cn/0UtpsE",
                     "紫色":"http://d.kjzly.cn/4LHRTP",
                     "红色":"http://d.kjzly.cn/joQLJh",
@@ -29,6 +26,8 @@
         }
     },
     "img_add":{
-        "iPhone14ProMax"
+        "iPhone14ProMax":http://d.kjzly.cn/8w0kBA",
+        "iPhone14Pro":"http://d.kjzly.cn/ZMo95f",
+        "iPhone14Puls":"http://d.kjzly.cn/BTa5WC"
     }
 }
