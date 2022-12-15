@@ -1,0 +1,33 @@
+{
+    "tips":"此捷径作者为传说中的1米99，捷径来源于捷径社区，未经允许禁止搬运或抄袭",
+    "img_mask":{
+        "iPhone":{
+            "iPhone14系列":{
+                "iPhone14ProMax":{
+                    "银色":"http://d.kjzly.cn/FCmTvL",
+                    "暗紫色":"http://d.kjzly.cn/iuvXtL",
+                    "深空黑色":"http://d.kjzly.cn/t12lsT",
+                    "金色":"http://d.kjzly.cn/qKgWlE",
+                },
+                "iPhone14Pro":{
+                    "银色":"http://d.kjzly.cn/IjGZnd",
+                    "暗紫色":"http://d.kjzly.cn/CrIq9o",
+                    "深空黑色":"http://d.kjzly.cn/xq2RKp",
+                    "金色":"http://d.kjzly.cn/MDm3Lz"
+                },
+                "iPhone14Puls":{
+                    "午夜色":"http://d.kjzly.cn/0UtpsE",
+                    "紫色":"http://d.kjzly.cn/4LHRTP",
+                    "红色":"http://d.kjzly.cn/joQLJh",
+                    "蓝色":"http://d.kjzly.cn/AxBOlW",
+                    "星光色":"http://d.kjzly.cn/UV51Xp"
+                }
+            }
+        }
+    },
+    "img_add":{
+        "iPhone14ProMax":"http://d.kjzly.cn/8w0kBA",
+        "iPhone14Pro":"http://d.kjzly.cn/ZMo95f",
+        "iPhone14Puls":"http://d.kjzly.cn/BTa5WC"
+    }
+}
