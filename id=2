@@ -1,8 +1,8 @@
 {
-    "version":"1",
+    "ver_update":"1",
+    "version":"1.0",
     "newurl":"https://www.icloud.com/shortcuts/70224320184d4ab18b5cbfb5135f001a",
-    "newtitle":"🔍发现新版本，点击“好”即可更新！",
-    "newnontent":"版本:1.0 暂无更新内容",
+    "new":"暂无内容",
     "api":"https://route.showapi.com/950-1",
     "showapi_appid":"1214034",
     "showapi_sign":"65829514ae0d40bca1ba8aa54e42b059"
