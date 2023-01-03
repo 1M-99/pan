@@ -11,7 +11,7 @@
                         "深空黑色":"https://s2.loli.net/2023/01/03/Dxb8aSlJPVT6NWX.png",
                         "金色":"https://s2.loli.net/2023/01/03/ceigZyHkQ82CO7F.png"
                     }
-            },
+                },
                 "iPhone14Pro":{
                     "width":"1179",
                     "height":"2556",
@@ -35,5 +35,4 @@
                 },
             },
         },
-    },
-}
+    }
