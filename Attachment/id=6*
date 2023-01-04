@@ -24,6 +24,8 @@
                     }
                 },
                 "iPhone14Puls":{
+                    "width":"1284",
+                    "height":"2778",
                     "add":"https://s2.loli.net/2023/01/03/u46vILFY98jfHTa.png",
                     "mask":{
                         "午夜色":"https://s2.loli.net/2023/01/03/mqUVkeCcwabpSin.png",
@@ -33,6 +35,18 @@
                         "星光色":"https://s2.loli.net/2023/01/03/4k6vf1L3lZCEGIx.png"
                     }
                 },
+                "iPhone14":{
+                    "width":"1170",
+                    "height":"2532",
+                    "add":"https://s2.loli.net/2023/01/04/vQ9z1PUgDjGqY6H.png",
+                    "mask":{
+                        "午夜色":"https://s2.loli.net/2023/01/04/MjfDQ7dvSzygxIX.png",
+                        "紫色":"https://s2.loli.net/2023/01/04/GtP7Ny9aVpvjnuU.png",
+                        "红色":"",
+                        "蓝色":"",
+                        "星光色":"https://s2.loli.net/2023/01/04/whrL7lnk6JecgAU.png"
+                    }
+                }
             },
         },
     }
