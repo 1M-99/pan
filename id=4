@@ -1,8 +1,8 @@
 {
-        "version":"1",
+        "ver_update":"1",
+        "version":"1.0",
         "newurl":"https://www.icloud.com/shortcuts/f05e994ac1134a699c72eb534bed9320",
-        "newtitle":"🔍发现新版本，点击“好”即可更新！",
-        "newnontent":"版本:1.0 暂无更新内容",
+        "new":"暂无更新内容",
     "list":{
         "热门":"hot",
         "新鲜":"fresh",
