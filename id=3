@@ -1,8 +1,8 @@
 {
-    "ver_update":"1",
-    "version":"1.0",
+    "ver_update":"2",
+    "version":"1.1",
     "newurl":"https://www.icloud.com/shortcuts/213170328e5e45038419053c6e0559ab",
-    "new":"暂无更新内容",
+    "new":"此版本在查看一条新闻介绍和详细信息时加入了返回按钮，使捷径不用重复运行\n此捷径正在测试中，请勿更新版本",
     "api":"http://route.showapi.com/119-42",
     "showapi_appid":"1143998",
     "showapi_sign":"a0a624ca1f864029a9c63154173dfdfe"
