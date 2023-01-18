@@ -23,6 +23,4 @@
         "教程":"4",
         "公告":"5"
     }
-    "shortcuts_URL1":"https://api.sharecuts.cn/shortcuts/type?limit=search",
-    "shortcuts_URL2":"https://sharecuts.cn/shortcuts/category/nember?limit=search"
 }
