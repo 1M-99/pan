@@ -1,32 +1,39 @@
 {
     "img_mask":{
         "iPhone14ProMax":{
-            "银色":"http://d.kjzly.cn/FCmTvL",
-            "暗紫色":"http://d.kjzly.cn/iuvXtL",
-            "深空黑色":"http://d.kjzly.cn/t12lsT",
-            "金色":"http://d.kjzly.cn/qKgWlE"
+            "width":"1290",
+            "height":"2796",
+            "add":"https://s2.loli.net/2023/01/03/COdNL4j6XeaBHY7.png",
+            "mask":{
+                "银色":"https://s2.loli.net/2023/01/03/6opBcUw7sKhrLIz.png",
+                "暗紫色":"https://s2.loli.net/2023/01/03/sfM2KUc9Wj3Ri7B.png",
+                "深空黑色":"https://s2.loli.net/2023/01/03/Dxb8aSlJPVT6NWX.png",
+                "金色":"https://s2.loli.net/2023/01/03/ceigZyHkQ82CO7F.png"
+            }
         },
         "iPhone14Pro":{
-            "银色":"http://d.kjzly.cn/IjGZnd",
-            "暗紫色":"http://d.kjzly.cn/CrIq9o",
-            "深空黑色":"http://d.kjzly.cn/xq2RKp",
-            "金色":"http://d.kjzly.cn/MDm3Lz"
+            "width":"1179",
+            "height":"2556",
+            "add":"https://s2.loli.net/2023/01/03/xqZYzpuRKE1hbtk.png",
+            "mask":{
+                "银色":"https://s2.loli.net/2023/01/03/6kpyPeIvG9gTuND.png",
+                "暗紫色":"https://s2.loli.net/2023/01/03/Dxb8aSlJPVT6NWX.png",
+                "深空黑色":"https://s2.loli.net/2023/01/03/PtcG2rAsYbf9NxO.png",
+                "金色":"https://s2.loli.net/2023/01/03/TDxO3vKLhqaC8Iz.png"
+            }
         },
         "iPhone14Puls":{
-            "午夜色":"http://d.kjzly.cn/0UtpsE",
-            "紫色":"http://d.kjzly.cn/4LHRTP",
-            "红色":"http://d.kjzly.cn/joQLJh",
-            "蓝色":"http://d.kjzly.cn/AxBOlW",
-           "星光色":"http://d.kjzly.cn/UV51Xp"
-        },
-        "iPhone14":{
-            "午夜色":"http://d.kjzly.cn/jklq9C",
-            "星光色":"http://d.kjzly.cn/2KY15z",
-            "蓝色":"http://d.kjzly.cn/WGZLek",
-            "紫色":"http://d.kjzly.cn/QfJV8j",
-            "红色":"http://d.kjzly.cn/byZKUY"
-        }
-    }, 
+            "width":"1284",
+            "height":"2778",
+            "add":"https://s2.loli.net/2023/01/03/u46vILFY98jfHTa.png",
+            "mask":{
+                "午夜色":"https://s2.loli.net/2023/01/03/mqUVkeCcwabpSin.png",
+                "紫色":"https://s2.loli.net/2023/01/03/DlbJ3fSTBzVvaU8.png",
+                "红色":"https://s2.loli.net/2023/01/03/hMT7dFNquXLSBeA.png",
+                "蓝色":"https://s2.loli.net/2023/01/03/sENGdtMkR48aCZh.png",
+                "星光色":"https://s2.loli.net/2023/01/03/4k6vf1L3lZCEGIx.png"
+                }
+            },
     "img_add":{
         "iPhone14ProMax":"http://d.kjzly.cn/8w0kBA",
         "iPhone14Pro":"http://d.kjzly.cn/ZMo95f",
