@@ -32,17 +32,17 @@
                 "红色":"https://s2.loli.net/2023/01/03/hMT7dFNquXLSBeA.png",
                 "蓝色":"https://s2.loli.net/2023/01/03/sENGdtMkR48aCZh.png",
                 "星光色":"https://s2.loli.net/2023/01/03/4k6vf1L3lZCEGIx.png"
-                }
-            },
+            }
+        },
         "iPhone14":{
-                    "width":"1170",
-                    "height":"2532",
-                    "add":"https://s2.loli.net/2023/01/04/vQ9z1PUgDjGqY6H.png",
-                    "mask":{
-                        "午夜色":"https://s2.loli.net/2023/01/04/MjfDQ7dvSzygxIX.png",
-                        "紫色":"https://s2.loli.net/2023/01/04/GtP7Ny9aVpvjnuU.png",
-                        "红色":"https://s2.loli.net/2023/01/04/rnkNEd4itczGy5h.png",
-                        "蓝色":"https://s2.loli.net/2023/01/04/Ut7ENk2D3iFLHCu.png",
-                        "星光色":"https://s2.loli.net/2023/01/04/whrL7lnk6JecgAU.png"
-                    }
-                }
+            "width":"1170",
+            "height":"2532",
+            "add":"https://s2.loli.net/2023/01/04/vQ9z1PUgDjGqY6H.png",
+            "mask":{
+                "午夜色":"https://s2.loli.net/2023/01/04/MjfDQ7dvSzygxIX.png",
+                "紫色":"https://s2.loli.net/2023/01/04/GtP7Ny9aVpvjnuU.png",
+                "红色":"https://s2.loli.net/2023/01/04/rnkNEd4itczGy5h.png",
+                "蓝色":"https://s2.loli.net/2023/01/04/Ut7ENk2D3iFLHCu.png",
+                "星光色":"https://s2.loli.net/2023/01/04/whrL7lnk6JecgAU.png"
+            }
+        }
