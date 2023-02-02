@@ -1,7 +1,7 @@
 {
-    "version":"1",
-    "newurl":"https://www.icloud.com/shortcuts/",
-    "newtitle":"🔍发现新版本，点击“好”即可更新！",
-    "new":"更新内容在安装的捷径的第一个注释操作上会注明。\n点击“好”即可获取最新版本。",
-    "time":"1970.1.1 8:00"
+    "version":"1.0",
+    "ver_update":"1",
+    "newurl":"null",
+    "new":"null",
+    "Authorization":"ObAxk22rH1hINrXB3m0pH2fD2l8ahyUc"
 }
