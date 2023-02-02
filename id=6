@@ -3,5 +3,6 @@
     "ver_update":"1",
     "newurl":"null",
     "new":"null",
-    "Authorization":"ObAxk22rH1hINrXB3m0pH2fD2l8ahyUc"
+    "Authorization":"ObAxk22rH1hINrXB3m0pH2fD2l8ahyUc",
+    "apiurl":"https://smms.app/api/v2/upload"
 }
