@@ -6,7 +6,7 @@
     "Authorization":"ObAxk22rH1hINrXB3m0pH2fD2l8ahyUc",
     "apiurl":"https://smms.app/api/v2/upload",
     "tips":{
-        "image_repeated":"你所上传的图片可能以及上传过了，请勿重复上传",
+        "image_repeated":"你所上传的图片可能以及上传过了，请勿重复上传\n图片URL地址为",
         "File too big":"你所上传的图片太大了，图片上传限制为5MB及以下",
         "invalid_source":"图片只能是PNG格式"
     }
