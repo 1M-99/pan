@@ -6,6 +6,7 @@
     "Authorization":"ObAxk22rH1hINrXB3m0pH2fD2l8ahyUc",
     "apiurl":"https://smms.app/api/v2/upload",
     "token":"8337effca0ddfcd9c5899f3509b23657",
+    "apiurl1":"http://img.ess.ink:16054/api/index.php"
     "tips":{
         "image_repeated":"你所上传的图片可能以及上传过了，请勿重复上传\n图片URL地址为：\n images",
         "invalid_size":"你所上传的图片太大了，图片上传限制为5MB及以下",
