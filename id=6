@@ -4,5 +4,10 @@
     "newurl":"null",
     "new":"null",
     "Authorization":"ObAxk22rH1hINrXB3m0pH2fD2l8ahyUc",
-    "apiurl":"https://smms.app/api/v2/upload"
+    "apiurl":"https://smms.app/api/v2/upload",
+    "tips":{
+        "image_repeated":"你所上传的图片可能以及上传过了，请勿重复上传",
+        "File too big":"你所上传的图片太大了，图片上传限制为5MB及以下",
+        "invalid_source":"照片不能是
+    }
 }
