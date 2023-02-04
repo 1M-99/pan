@@ -1,7 +1,7 @@
 {
     "iPhone13ProMax":{
-        "width":"1290",
-        "height":"2796",
+        "width":"1284",
+        "height":"2778",
         "add":"https://s2.loli.net/2023/01/03/COdNL4j6XeaBHY7.png",
         "mask":{
             "银色":"https://s2.loli.net/2023/01/03/6opBcUw7sKhrLIz.png",
@@ -11,8 +11,8 @@
         }
     },
     "iPhone13Pro":{
-        "width":"1179",
-        "height":"2556",
+        "width":"1170",
+        "height":"2532",
         "add":"https://s2.loli.net/2023/01/03/xqZYzpuRKE1hbtk.png",
         "mask":{
             "银色":"https://s2.loli.net/2023/01/03/6kpyPeIvG9gTuND.png",
@@ -22,8 +22,8 @@
         }
     },
     "iPhone13Mini":{
-        "width":"1284",
-        "height":"2778",
+        "width":"1080",
+        "height":"2340",
         "add":"https://s2.loli.net/2023/01/03/u46vILFY98jfHTa.png",
         "mask":{
             "午夜色":"https://s2.loli.net/2023/01/03/mqUVkeCcwabpSin.png",
